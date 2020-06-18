@@ -1,0 +1,10 @@
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\06. JSON\JSONinNET\bin\Debug\JSONinNET.exe.config
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\06. JSON\JSONinNET\bin\Debug\JSONinNET.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\06. JSON\JSONinNET\bin\Debug\JSONinNET.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\06. JSON\JSONinNET\obj\Debug\JSONinNET.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\06. JSON\JSONinNET\obj\Debug\JSONinNET.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\06. JSON\JSONinNET\obj\Debug\JSONinNET.exe
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\06. JSON\JSONinNET\obj\Debug\JSONinNET.pdb
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\06. JSON\JSONinNET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\06. JSON\JSONinNET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maria\OneDrive - 2lunatix.com\C# Projects\06. JSON\JSONinNET\obj\Debug\JSONinNET.csproj.CopyComplete
